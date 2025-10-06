@@ -6,7 +6,7 @@ This project is a promotional website designed to showcase and advertise private
 
 _Here you can add screenshots to give a visual overview of your project. Follow the instructions from our previous conversation to upload your images and get the URLs._
 
-<img src="URL_TO_YOUR_HOMEPAGE_SCREENSHOT.png" alt="Homepage Screenshot" width="700">
+<img src="https://github.com/CharisBerlian/Website-Untuk-Promosi-tutor-les-privat/blob/main/ss1.png" alt="Homepage Screenshot" width="700">
 <br>
 _Homepage View_
 
