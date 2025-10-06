@@ -8,14 +8,14 @@ _Here you can add screenshots to give a visual overview of your project. Follow 
 
 <img src="https://github.com/CharisBerlian/Website-Untuk-Promosi-tutor-les-privat/blob/main/ss1.png" alt="Homepage Screenshot" width="700">
 <br>
-_Homepage View_
-
+<img src="https://github.com/CharisBerlian/Website-Untuk-Promosi-tutor-les-privat/blob/main/ss2.png" alt="Tutor List Screenshot" width="700">
 <br>
-
-<img src="URL_TO_YOUR_TUTOR_LIST_SCREENSHOT.png" alt="Tutor List Screenshot" width="700">
+<img src="https://github.com/CharisBerlian/Website-Untuk-Promosi-tutor-les-privat/blob/main/ss3.png" alt="Tutor List Screenshot" width="700">
 <br>
-_Tutor List View_
-
+<img src="https://github.com/CharisBerlian/Website-Untuk-Promosi-tutor-les-privat/blob/main/ss4.png" alt="Tutor List Screenshot" width="700">
+<br>
+<img src="https://github.com/CharisBerlian/Website-Untuk-Promosi-tutor-les-privat/blob/main/ss5.png" alt="Tutor List Screenshot" width="700">
+<br>
 
 ## Features
 
