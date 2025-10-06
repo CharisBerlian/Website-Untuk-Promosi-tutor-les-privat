@@ -27,11 +27,7 @@ _Here you can add screenshots to give a visual overview of your project. Follow 
 ## Tech Stack
 
 **Frontend:**
-* _(Add your frontend technologies here, e.g., HTML, CSS, JavaScript, React, etc.)_
-
-**Backend:**
-* _(Add your backend technologies here, if any, e.g., Node.js, PHP, etc.)_
-
+* _(Add your frontend technologies here, e.g., HTML, CSS, JavaScript,)_
 
 ## Getting Started
 
