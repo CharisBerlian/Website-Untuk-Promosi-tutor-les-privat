@@ -26,29 +26,6 @@ _Here you can add screenshots to give a visual overview of your project. Follow 
 
 ## Tech Stack
 
-**Frontend:**
 * _(Add your frontend technologies here, e.g., HTML, CSS, JavaScript,)_
 
-## Getting Started
 
-To get a local copy up and running, follow these simple steps.
-
-### Prerequisites
-
-You only need a modern web browser like Google Chrome, Firefox, or Safari.
-
-### Installation
-
-1.  Clone the repository to your local machine:
-    ```bash
-    git clone [https://github.com/CharisBerlian/Website-Untuk-Promosi-tutor-les-privat.git](https://github.com/CharisBerlian/Website-Untuk-Promosi-tutor-les-privat.git)
-    ```
-2.  Navigate into the project directory:
-    ```bash
-    cd Website-Untuk-Promosi-tutor-les-privat
-    ```
-3.  Open the `index.html` file in your web browser to view the website.
-
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
